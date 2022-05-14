@@ -1,0 +1,5 @@
+.backup
+.RData
+.Rhistory
+fit.rds
+forecast.png
