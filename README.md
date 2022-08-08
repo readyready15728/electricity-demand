@@ -24,3 +24,16 @@ But there's still a lot of genuine future in it:
 ![24-month forecast of US electricity demand](https://i.imgur.com/IbQwZJ0.png)
 
 I will be updating this Markdown as the true data actually roll in.
+
+**UPDATE:**
+
+The EIA have begun to provide the data that will test my model:
+
+|  Month   | EIA Data | Prediction |
+------------------------------------
+| Mar 2022 |   307    |    294     |
+| Apr 2022 |   283    |    277     |
+| May 2022 |   303    |    290     |
+
+RMSE: 11.17
+Normalized RMSE: 0.37
