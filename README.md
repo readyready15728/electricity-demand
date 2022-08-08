@@ -30,7 +30,7 @@ I will be updating this Markdown as the true data actually roll in.
 The EIA have begun to provide the data that will test my model:
 
 |  Month   | EIA Data | Prediction |
-------------------------------------
+|----------|----------|------------|
 | Mar 2022 |   307    |    294     |
 | Apr 2022 |   283    |    277     |
 | May 2022 |   303    |    290     |
