@@ -35,5 +35,5 @@ The EIA have begun to provide the data that will test my model:
 | Apr 2022 |   283    |    277     |
 | May 2022 |   303    |    290     |
 
-RMSE: 11.17
+RMSE: 11.17  
 Normalized RMSE: 0.37
